@@ -1,0 +1,1 @@
+A cool collection of JavaScript prototypes
